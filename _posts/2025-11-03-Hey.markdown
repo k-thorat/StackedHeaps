@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Hey!"
+date:   2025-11-03 10:10:00 +1100
+categories: initial
+---
+
+Let's write our first Swift program.
+
+```
+print("Hello, World!")
+```
+
+Voila!
+
+```
+Hello, World!
+```
+
+You are all done :) 
