@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Hey!"
-date:   2025-11-03 10:10:00 +1100
-categories: initial
+title: "Hey!"
+date: 2025-11-03
+categories: [tech]
+tags: [initial, swift]
 ---
 
 Let's write our first Swift program.
