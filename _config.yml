@@ -19,6 +19,13 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-email-protect
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 # How post links are created
 permalink: /:title/
