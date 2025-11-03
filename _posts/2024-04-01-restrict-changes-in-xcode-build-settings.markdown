@@ -83,3 +83,5 @@ I am not a shell script expert. If I could find non-empty occurrence of `buildSe
 Here is the entire script.
 
 <script src="https://gist.github.com/k-thorat/528106b9e34ec6079ba1172db3f1c9b8.js"></script>
+
+{% include post-tags.html %}
