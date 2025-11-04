@@ -2,12 +2,11 @@
 layout: post
 title: "Restrict changes in Xcode Build Settings"
 date: 2024-04-01
-categories: [tech, xcode]
-tags: [build-settings, build-phase, tools, run-script, practices] 
+categories: [tech, xcode, tools]
+tags: [build-settings, build-phase, run-script, practices] 
 ---
 
 # Restrict changes in Xcode Build Settings
-
 
 We use Xcode [**Build Settings**](https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project/#) to update project to our preferences.
 

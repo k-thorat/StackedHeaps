@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Restrict changes in Xcode Build Settings"
+title: "Optimise Xcode builds with Input & Output file lists"
 date: 2024-04-01
-categories: [tech, xcode]
+categories: [tech, xcode, tools]
 tags: [build, build-phase, run-script, performance]
 ---
 
