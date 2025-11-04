@@ -2,8 +2,8 @@
 layout: post
 title: "Restrict changes in Xcode Build Settings"
 date: 2024-04-01
-categories: [tech]
-tags: [xcode, build-settings, tools, run-script]
+categories: [tech, xcode]
+tags: [build-settings, build-phase, tools, run-script, practices] 
 ---
 
 # Restrict changes in Xcode Build Settings
@@ -83,5 +83,6 @@ I am not a shell script expert. If I could find non-empty occurrence of `buildSe
 Here is the entire script.
 
 <script src="https://gist.github.com/k-thorat/528106b9e34ec6079ba1172db3f1c9b8.js"></script>
+
 
 {% include post-tags.html %}
