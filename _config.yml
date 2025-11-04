@@ -11,6 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 github_username: k-thorat
+stackoverflow_username: k-thorat
 linkedin_username: kiranthorat
 
 # Build settings
