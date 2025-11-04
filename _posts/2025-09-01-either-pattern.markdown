@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Either Pattern"
-date: 2025-08-05
+date: 2025-09-01
 categories: [tech, software-engineering]
 tags: [pattern, architecture]
 ---
@@ -142,7 +142,7 @@ extension Either where A == EitherTypeA, B == EitherTypeB {
 
 If you have to work with Class A without `Either` pattern. Class A will be full of switch-cases/if-else and optional properties. 
 
-Here is [playground](https://github.com/k-thorat/StackedHeaps/tree/main/Either%20Design%20Pattern) with all the above scenarios. 
+Here is [playground](https://github.com/k-thorat/StackedHeaps/tree/main/Playground/Either%20Design%20Pattern) with all the above scenarios. 
 
 
 {% include post-tags.html %}
