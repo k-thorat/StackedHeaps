@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hey!"
-date: 2025-11-03
+title: "Hey! - Stacked Heaps"
+description: "Your first Swift program tutorial for absolute beginners. Simple, quick introduction to Swift development with a Hello World example."
+date: 2024-04-01
 categories: [tech]
 tags: [initial, swift]
 ---

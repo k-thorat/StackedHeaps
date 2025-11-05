@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Restrict changes in Xcode Build Settings"
-date: 2024-04-01
+title: "Restrict changes in Xcode Build Settings - Stacked Heaps"
+description: "Prevent accidental Xcode build settings changes using xcconfig files. Learn how to detect modifications in pbxproj with a simple shell script for Xcode projects."
+date: 2024-04-12
 categories: [tech, xcode, tools]
 tags: [build-settings, build-phase, run-script, practices] 
+permalink: /restrict-changes-in-xcode-build-settings/
 ---
 
 # Restrict changes in Xcode Build Settings

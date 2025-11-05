@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Optimise Xcode builds with Input & Output file lists"
-date: 2024-04-01
+title: "Optimise Xcode builds with Input & Output file lists - Stacked Heaps"
+description: "Speed up Xcode builds using input and output file lists in Run Scripts. Learn how to run scripts only when files change with practical examples and code."
+date: 2024-11-10
 categories: [tech, xcode, tools]
 tags: [build, build-phase, run-script, performance]
+permalink: /optimise-xcode-builds-with-input-and-output-file-lists/
 ---
 
 # Optimise Xcode builds with Input & Output file lists

@@ -5,9 +5,9 @@
 title: Stacked Heaps
 author: Kiran Thorat
 description: >- # this means to ignore newlines until "baseurl:"
-  Heaps of insights, stacked for the curious minds.
+  Heaps of Swift programming tutorials and iOS architecture guides, stacked for curious developers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://stackedheaps.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 github_username: k-thorat

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Naming in software engineering"
+title: "Naming in software engineering - Stacked Heaps"
+description: "Swift naming conventions guide: Learn best practices for functions, protocols, and variables to improve code readability and maintainability."
 date: 2025-08-05
 categories: [tech, software-engineering]
 tags: [guidelines, namming, practices]
+permalink: /naming-in-software-engineering/
 ---
 
 # Naming in software engineering

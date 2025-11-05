@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Either Pattern"
+title: "Either Pattern in Swift - Stacked Heaps"
+description: "Learn how to use the Either pattern in Swift when you can't inject dependencies. Includes code examples and a playground."
 date: 2025-09-01
 categories: [tech, software-engineering]
 tags: [pattern, architecture]
+permalink: /either-pattern/
 ---
 
 # Either Pattern
